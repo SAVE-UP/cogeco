@@ -16,6 +16,6 @@ git commit -m 'update'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 #git push -f git@github.com:mawuen/mawuen.github.io.git master
-git push -f --set-upstream git@github.com:SAVE-UP/smspro.git master
+git push -f --set-upstream git@github.com:SAVE-UP/cogeco.git master
 
 cd -
